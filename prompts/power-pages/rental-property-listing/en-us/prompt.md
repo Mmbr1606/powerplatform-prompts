@@ -1,1 +1,0 @@
-Create a Power Pages site for customers interested in rental properties. The site should display available properties with details like address, type, status, and images. Customers should be able to inquire about a property through a contact form.
